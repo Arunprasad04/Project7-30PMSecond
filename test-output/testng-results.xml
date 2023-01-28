@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+      <class name="org.excel.TestNg2">
+        <test-method status="PASS" signature="tc07()[pri:0, instance:org.excel.TestNg2@3abbfa04]" name="tc07" duration-ms="7" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc07 -->
+        <test-method status="PASS" signature="tc08()[pri:0, instance:org.excel.TestNg2@3abbfa04]" name="tc08" duration-ms="2" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc08 -->
+      </class> <!-- org.excel.TestNg2 -->
+      <class name="org.excel.TestNg">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.excel.TestNg@57fffcd7]" name="tc01" duration-ms="8" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.excel.TestNg@57fffcd7]" name="tc02" duration-ms="1" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:org.excel.TestNg@57fffcd7]" name="tc03" duration-ms="1" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04()[pri:0, instance:org.excel.TestNg@57fffcd7]" name="tc04" duration-ms="0" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc05()[pri:0, instance:org.excel.TestNg@57fffcd7]" name="tc05" duration-ms="0" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method status="PASS" signature="tc06()[pri:0, instance:org.excel.TestNg@57fffcd7]" name="tc06" duration-ms="0" started-at="2023-01-19T14:24:41Z" finished-at="2023-01-19T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06 -->
+      </class> <!-- org.excel.TestNg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,85 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-24T12:46:04.087Z",
+        "line": 3,
+        "name": "Validate the login details",
+        "description": "",
+        "id": "validation-of-facebook-details;validate-the-login-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5989721600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on facebook page",
+            "match": {
+              "location": "StepDefinition.user_is_on_facebook_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 250386000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters username and password",
+            "match": {
+              "location": "StepDefinition.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 137035700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click the login button",
+            "match": {
+              "location": "StepDefinition.user_click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke"
+          },
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Validation of facebook details",
+    "description": "",
+    "id": "validation-of-facebook-details",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/91959/eclipse-workspace/Project730AMSecond/src/test/resources/login.feature",
+    "tags": [
+      {
+        "name": "@Smoke",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 8
+        }
+      }
+    ]
+  }
+]
